@@ -1,14 +1,12 @@
 ## C O N S T R U I N D O !
 
-<i class="devicon-bash-plain"></i>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-
+<hr>
 <div align="center">
   <a href="https://github.com/LuisSantoTI">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LuisSantosTI&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSantosTI&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+<hr>
 <div align="center"> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
